@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     role: "Frontend Developer",
     company: "PT Astra Otoparts Tbk Divisi Nusametal",
     description: `Designed and developed user interfaces for web applications using Bootstrap and Sass. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "Bootstrap", "CSS", "Node.js", "mySQL", "Sass"],
+    technologies: ["HTML", "Bootstrap", "CSS", "Node.js", "Sass"],
   },
 ];
 
