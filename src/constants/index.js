@@ -24,7 +24,7 @@ export const PROJECTS = [
     title: "Form Laporan Harian Produksi",
     image: projectastra,
     description:
-      "Creating a real-time daily production report from machining line.",
+      "Creating a real-time daily production report and automatic counting for production from machining line.",
     technologies: ["HTML", ,"Bootstrap", "CSS", "Node.js", "MySQL", "SASS"],
   },
 ];
